@@ -1,4 +1,4 @@
-============================Pandemic Simulation 0============================
+=========================== Pandemic Simulation 0 ===========================
 The pandemic reached Alice Springs for the first time in turn number 1.
 The pandemic reached Townsville for the first time in turn number 2.
 The pandemic reached Darwin for the first time in turn number 2.
@@ -370,3 +370,4 @@ The city Albany became infection free in turn number 62; total death 176350, tot
 The city Alice Springs became infection free in turn number 62; total death 112502, total survivors 0.
 The city Broome became infection free in turn number 62; total death 40075, total survivors 0.
 The city Port Augusta became infection free in turn number 62; total death 138334, total survivors 0.
+=========================== End of Log ===========================

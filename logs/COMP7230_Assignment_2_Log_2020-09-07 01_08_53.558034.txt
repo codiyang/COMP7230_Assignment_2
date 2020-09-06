@@ -1829,3 +1829,858 @@ infection free fail - turn47,citySydney
 infection free fail - turn47,cityMelbourne
 infection free fail - turn47,cityBrisbane
 infection free fail - turn47,cityPerth
+infection free fail - turn47,cityAdelaide
+infection free fail - turn47,cityNewcastle
+infection free fail - turn47,cityGold Coast
+infection free fail - turn47,cityCanberra
+infection free fail - turn47,cityWollongong
+infection free fail - turn47,citySunshine Coast
+infection free fail - turn47,cityGeelong
+infection free fail - turn47,cityTownsville
+infection free fail - turn47,cityCairns
+infection free fail - turn47,cityAlbury Wodonga
+infection free fail - turn47,cityDarwin
+infection free fail - turn47,cityToowoomba
+infection free fail - turn47,cityBallarat
+infection free fail - turn47,cityBendigo
+infection free fail - turn47,cityBathurst Orange
+infection free fail - turn47,cityMackay
+infection free fail - turn47,cityRockhampton
+infection free fail - turn47,cityCoffs Harbour
+infection free fail - turn47,cityBundaberg
+infection free fail - turn47,cityWagga Wagga
+infection free fail - turn47,cityMildura
+infection free fail - turn47,cityShepparton Mooroopna
+infection free fail - turn47,cityGladstone
+infection free fail - turn47,cityHervey Bay
+infection free fail - turn47,cityDubbo
+infection free fail - turn47,cityTamworth
+infection free fail - turn47,cityPort Macquarie
+infection free fail - turn47,cityKalgoorlie Boulder
+infection free fail - turn47,cityWarrnambool
+infection free fail - turn47,cityGeraldton
+infection free fail - turn47,cityBunbury
+infection free fail - turn47,cityAlbany
+infection free fail - turn47,cityAlice Springs
+infection free fail - turn47,cityBroome
+infection free fail - turn47,cityPort Augusta
+infection free fail - turn48,citySydney
+infection free fail - turn48,cityMelbourne
+infection free fail - turn48,cityBrisbane
+infection free fail - turn48,cityPerth
+infection free fail - turn48,cityAdelaide
+infection free fail - turn48,cityNewcastle
+infection free fail - turn48,cityGold Coast
+infection free fail - turn48,cityCanberra
+infection free fail - turn48,cityWollongong
+infection free fail - turn48,citySunshine Coast
+infection free fail - turn48,cityGeelong
+infection free fail - turn48,cityTownsville
+infection free fail - turn48,cityCairns
+infection free fail - turn48,cityAlbury Wodonga
+infection free fail - turn48,cityDarwin
+infection free fail - turn48,cityToowoomba
+infection free fail - turn48,cityBallarat
+infection free fail - turn48,cityBendigo
+infection free fail - turn48,cityBathurst Orange
+infection free fail - turn48,cityMackay
+infection free fail - turn48,cityRockhampton
+infection free fail - turn48,cityCoffs Harbour
+infection free fail - turn48,cityBundaberg
+infection free fail - turn48,cityWagga Wagga
+infection free fail - turn48,cityMildura
+infection free fail - turn48,cityShepparton Mooroopna
+infection free fail - turn48,cityGladstone
+infection free fail - turn48,cityHervey Bay
+infection free fail - turn48,cityDubbo
+infection free fail - turn48,cityTamworth
+infection free fail - turn48,cityPort Macquarie
+infection free fail - turn48,cityKalgoorlie Boulder
+infection free fail - turn48,cityWarrnambool
+infection free fail - turn48,cityGeraldton
+infection free fail - turn48,cityBunbury
+infection free fail - turn48,cityAlbany
+infection free fail - turn48,cityAlice Springs
+infection free fail - turn48,cityBroome
+infection free fail - turn48,cityPort Augusta
+infection free fail - turn49,citySydney
+infection free fail - turn49,cityMelbourne
+infection free fail - turn49,cityBrisbane
+infection free fail - turn49,cityPerth
+infection free fail - turn49,cityAdelaide
+infection free fail - turn49,cityNewcastle
+infection free fail - turn49,cityGold Coast
+infection free fail - turn49,cityCanberra
+infection free fail - turn49,cityWollongong
+infection free fail - turn49,citySunshine Coast
+infection free fail - turn49,cityGeelong
+infection free fail - turn49,cityTownsville
+infection free fail - turn49,cityCairns
+infection free fail - turn49,cityAlbury Wodonga
+infection free fail - turn49,cityDarwin
+infection free fail - turn49,cityToowoomba
+infection free fail - turn49,cityBallarat
+infection free fail - turn49,cityBendigo
+infection free fail - turn49,cityBathurst Orange
+infection free fail - turn49,cityMackay
+infection free fail - turn49,cityRockhampton
+infection free fail - turn49,cityCoffs Harbour
+infection free fail - turn49,cityBundaberg
+infection free fail - turn49,cityWagga Wagga
+infection free fail - turn49,cityMildura
+infection free fail - turn49,cityShepparton Mooroopna
+infection free fail - turn49,cityGladstone
+infection free fail - turn49,cityHervey Bay
+infection free fail - turn49,cityDubbo
+infection free fail - turn49,cityTamworth
+infection free fail - turn49,cityPort Macquarie
+infection free fail - turn49,cityKalgoorlie Boulder
+infection free fail - turn49,cityWarrnambool
+infection free fail - turn49,cityGeraldton
+infection free fail - turn49,cityBunbury
+infection free fail - turn49,cityAlbany
+infection free fail - turn49,cityAlice Springs
+infection free fail - turn49,cityBroome
+infection free fail - turn49,cityPort Augusta
+infection free fail - turn50,citySydney
+infection free fail - turn50,cityMelbourne
+infection free fail - turn50,cityBrisbane
+infection free fail - turn50,cityPerth
+infection free fail - turn50,cityAdelaide
+infection free fail - turn50,cityNewcastle
+infection free fail - turn50,cityGold Coast
+infection free fail - turn50,cityCanberra
+infection free fail - turn50,cityWollongong
+infection free fail - turn50,citySunshine Coast
+infection free fail - turn50,cityGeelong
+infection free fail - turn50,cityTownsville
+infection free fail - turn50,cityCairns
+infection free fail - turn50,cityAlbury Wodonga
+infection free fail - turn50,cityDarwin
+infection free fail - turn50,cityToowoomba
+infection free fail - turn50,cityBallarat
+infection free fail - turn50,cityBendigo
+infection free fail - turn50,cityBathurst Orange
+infection free fail - turn50,cityMackay
+infection free fail - turn50,cityRockhampton
+infection free fail - turn50,cityCoffs Harbour
+infection free fail - turn50,cityBundaberg
+infection free fail - turn50,cityWagga Wagga
+infection free fail - turn50,cityMildura
+infection free fail - turn50,cityShepparton Mooroopna
+infection free fail - turn50,cityGladstone
+infection free fail - turn50,cityHervey Bay
+infection free fail - turn50,cityDubbo
+infection free fail - turn50,cityTamworth
+infection free fail - turn50,cityPort Macquarie
+infection free fail - turn50,cityKalgoorlie Boulder
+infection free fail - turn50,cityWarrnambool
+infection free fail - turn50,cityGeraldton
+infection free fail - turn50,cityBunbury
+infection free fail - turn50,cityAlbany
+infection free fail - turn50,cityAlice Springs
+infection free fail - turn50,cityBroome
+infection free fail - turn50,cityPort Augusta
+infection free fail - turn51,citySydney
+infection free fail - turn51,cityMelbourne
+infection free fail - turn51,cityBrisbane
+infection free fail - turn51,cityPerth
+infection free fail - turn51,cityAdelaide
+infection free fail - turn51,cityNewcastle
+infection free fail - turn51,cityGold Coast
+infection free fail - turn51,cityCanberra
+infection free fail - turn51,cityWollongong
+infection free fail - turn51,citySunshine Coast
+infection free fail - turn51,cityGeelong
+infection free fail - turn51,cityTownsville
+infection free fail - turn51,cityCairns
+infection free fail - turn51,cityAlbury Wodonga
+infection free fail - turn51,cityDarwin
+infection free fail - turn51,cityToowoomba
+infection free fail - turn51,cityBallarat
+infection free fail - turn51,cityBendigo
+infection free fail - turn51,cityBathurst Orange
+infection free fail - turn51,cityMackay
+infection free fail - turn51,cityRockhampton
+infection free fail - turn51,cityCoffs Harbour
+infection free fail - turn51,cityBundaberg
+infection free fail - turn51,cityWagga Wagga
+infection free fail - turn51,cityMildura
+infection free fail - turn51,cityShepparton Mooroopna
+infection free fail - turn51,cityGladstone
+infection free fail - turn51,cityHervey Bay
+infection free fail - turn51,cityDubbo
+infection free fail - turn51,cityTamworth
+infection free fail - turn51,cityPort Macquarie
+infection free fail - turn51,cityKalgoorlie Boulder
+infection free fail - turn51,cityWarrnambool
+infection free fail - turn51,cityGeraldton
+infection free fail - turn51,cityBunbury
+infection free fail - turn51,cityAlbany
+infection free fail - turn51,cityAlice Springs
+infection free fail - turn51,cityBroome
+infection free fail - turn51,cityPort Augusta
+infection free fail - turn52,citySydney
+infection free fail - turn52,cityMelbourne
+infection free fail - turn52,cityBrisbane
+infection free fail - turn52,cityPerth
+infection free fail - turn52,cityAdelaide
+infection free fail - turn52,cityNewcastle
+infection free fail - turn52,cityGold Coast
+infection free fail - turn52,cityCanberra
+infection free fail - turn52,cityWollongong
+infection free fail - turn52,citySunshine Coast
+infection free fail - turn52,cityGeelong
+infection free fail - turn52,cityTownsville
+infection free fail - turn52,cityCairns
+infection free fail - turn52,cityAlbury Wodonga
+infection free fail - turn52,cityDarwin
+infection free fail - turn52,cityToowoomba
+infection free fail - turn52,cityBallarat
+infection free fail - turn52,cityBendigo
+infection free fail - turn52,cityBathurst Orange
+infection free fail - turn52,cityMackay
+infection free fail - turn52,cityRockhampton
+infection free fail - turn52,cityCoffs Harbour
+infection free fail - turn52,cityBundaberg
+infection free fail - turn52,cityWagga Wagga
+infection free fail - turn52,cityMildura
+infection free fail - turn52,cityShepparton Mooroopna
+infection free fail - turn52,cityGladstone
+infection free fail - turn52,cityHervey Bay
+infection free fail - turn52,cityDubbo
+infection free fail - turn52,cityTamworth
+infection free fail - turn52,cityPort Macquarie
+infection free fail - turn52,cityKalgoorlie Boulder
+infection free fail - turn52,cityWarrnambool
+infection free fail - turn52,cityGeraldton
+infection free fail - turn52,cityBunbury
+infection free fail - turn52,cityAlbany
+infection free fail - turn52,cityAlice Springs
+infection free fail - turn52,cityBroome
+infection free fail - turn52,cityPort Augusta
+infection free fail - turn53,citySydney
+infection free fail - turn53,cityMelbourne
+infection free fail - turn53,cityBrisbane
+infection free fail - turn53,cityPerth
+infection free fail - turn53,cityAdelaide
+infection free fail - turn53,cityNewcastle
+infection free fail - turn53,cityGold Coast
+infection free fail - turn53,cityCanberra
+infection free fail - turn53,cityWollongong
+infection free fail - turn53,citySunshine Coast
+infection free fail - turn53,cityGeelong
+infection free fail - turn53,cityTownsville
+infection free fail - turn53,cityCairns
+infection free fail - turn53,cityAlbury Wodonga
+infection free fail - turn53,cityDarwin
+infection free fail - turn53,cityToowoomba
+infection free fail - turn53,cityBallarat
+infection free fail - turn53,cityBendigo
+infection free fail - turn53,cityBathurst Orange
+infection free fail - turn53,cityMackay
+infection free fail - turn53,cityRockhampton
+infection free fail - turn53,cityCoffs Harbour
+infection free fail - turn53,cityBundaberg
+infection free fail - turn53,cityWagga Wagga
+infection free fail - turn53,cityMildura
+infection free fail - turn53,cityShepparton Mooroopna
+infection free fail - turn53,cityGladstone
+infection free fail - turn53,cityHervey Bay
+infection free fail - turn53,cityDubbo
+infection free fail - turn53,cityTamworth
+infection free fail - turn53,cityPort Macquarie
+infection free fail - turn53,cityKalgoorlie Boulder
+infection free fail - turn53,cityWarrnambool
+infection free fail - turn53,cityGeraldton
+infection free fail - turn53,cityBunbury
+infection free fail - turn53,cityAlbany
+infection free fail - turn53,cityAlice Springs
+infection free fail - turn53,cityBroome
+infection free fail - turn53,cityPort Augusta
+infection free fail - turn54,citySydney
+infection free fail - turn54,cityMelbourne
+infection free fail - turn54,cityBrisbane
+infection free fail - turn54,cityPerth
+infection free fail - turn54,cityAdelaide
+infection free fail - turn54,cityNewcastle
+infection free fail - turn54,cityGold Coast
+infection free fail - turn54,cityCanberra
+infection free fail - turn54,cityWollongong
+infection free fail - turn54,citySunshine Coast
+infection free fail - turn54,cityGeelong
+infection free fail - turn54,cityTownsville
+infection free fail - turn54,cityCairns
+infection free fail - turn54,cityAlbury Wodonga
+infection free fail - turn54,cityDarwin
+infection free fail - turn54,cityToowoomba
+infection free fail - turn54,cityBallarat
+infection free fail - turn54,cityBendigo
+infection free fail - turn54,cityBathurst Orange
+infection free fail - turn54,cityMackay
+infection free fail - turn54,cityRockhampton
+infection free fail - turn54,cityCoffs Harbour
+infection free fail - turn54,cityBundaberg
+infection free fail - turn54,cityWagga Wagga
+infection free fail - turn54,cityMildura
+infection free fail - turn54,cityShepparton Mooroopna
+infection free fail - turn54,cityGladstone
+infection free fail - turn54,cityHervey Bay
+infection free fail - turn54,cityDubbo
+infection free fail - turn54,cityTamworth
+infection free fail - turn54,cityPort Macquarie
+infection free fail - turn54,cityKalgoorlie Boulder
+infection free fail - turn54,cityWarrnambool
+infection free fail - turn54,cityGeraldton
+infection free fail - turn54,cityBunbury
+infection free fail - turn54,cityAlbany
+infection free fail - turn54,cityAlice Springs
+infection free fail - turn54,cityBroome
+infection free fail - turn54,cityPort Augusta
+infection free fail - turn55,citySydney
+infection free fail - turn55,cityMelbourne
+infection free fail - turn55,cityBrisbane
+infection free fail - turn55,cityPerth
+infection free fail - turn55,cityAdelaide
+infection free fail - turn55,cityNewcastle
+infection free fail - turn55,cityGold Coast
+infection free fail - turn55,cityCanberra
+infection free fail - turn55,cityWollongong
+infection free fail - turn55,citySunshine Coast
+infection free fail - turn55,cityGeelong
+infection free fail - turn55,cityTownsville
+infection free fail - turn55,cityCairns
+infection free fail - turn55,cityAlbury Wodonga
+infection free fail - turn55,cityDarwin
+infection free fail - turn55,cityToowoomba
+infection free fail - turn55,cityBallarat
+infection free fail - turn55,cityBendigo
+infection free fail - turn55,cityBathurst Orange
+infection free fail - turn55,cityMackay
+infection free fail - turn55,cityRockhampton
+infection free fail - turn55,cityCoffs Harbour
+infection free fail - turn55,cityBundaberg
+infection free fail - turn55,cityWagga Wagga
+infection free fail - turn55,cityMildura
+infection free fail - turn55,cityShepparton Mooroopna
+infection free fail - turn55,cityGladstone
+infection free fail - turn55,cityHervey Bay
+infection free fail - turn55,cityDubbo
+infection free fail - turn55,cityTamworth
+infection free fail - turn55,cityPort Macquarie
+infection free fail - turn55,cityKalgoorlie Boulder
+infection free fail - turn55,cityWarrnambool
+infection free fail - turn55,cityGeraldton
+infection free fail - turn55,cityBunbury
+infection free fail - turn55,cityAlbany
+infection free fail - turn55,cityAlice Springs
+infection free fail - turn55,cityBroome
+infection free fail - turn55,cityPort Augusta
+infection free fail - turn56,citySydney
+infection free fail - turn56,cityMelbourne
+infection free fail - turn56,cityBrisbane
+infection free fail - turn56,cityPerth
+infection free fail - turn56,cityAdelaide
+infection free fail - turn56,cityNewcastle
+infection free fail - turn56,cityGold Coast
+infection free fail - turn56,cityCanberra
+infection free fail - turn56,cityWollongong
+infection free fail - turn56,citySunshine Coast
+infection free fail - turn56,cityGeelong
+infection free fail - turn56,cityTownsville
+infection free fail - turn56,cityCairns
+infection free fail - turn56,cityAlbury Wodonga
+infection free fail - turn56,cityDarwin
+infection free fail - turn56,cityToowoomba
+infection free fail - turn56,cityBallarat
+infection free fail - turn56,cityBendigo
+infection free fail - turn56,cityBathurst Orange
+infection free fail - turn56,cityMackay
+infection free fail - turn56,cityRockhampton
+infection free fail - turn56,cityCoffs Harbour
+infection free fail - turn56,cityBundaberg
+infection free fail - turn56,cityWagga Wagga
+infection free fail - turn56,cityMildura
+infection free fail - turn56,cityShepparton Mooroopna
+infection free fail - turn56,cityGladstone
+infection free fail - turn56,cityHervey Bay
+infection free fail - turn56,cityDubbo
+infection free fail - turn56,cityTamworth
+infection free fail - turn56,cityPort Macquarie
+infection free fail - turn56,cityKalgoorlie Boulder
+infection free fail - turn56,cityWarrnambool
+infection free fail - turn56,cityGeraldton
+infection free fail - turn56,cityBunbury
+infection free fail - turn56,cityAlbany
+infection free fail - turn56,cityAlice Springs
+infection free fail - turn56,cityBroome
+infection free fail - turn56,cityPort Augusta
+infection free fail - turn57,citySydney
+infection free fail - turn57,cityMelbourne
+infection free fail - turn57,cityBrisbane
+infection free fail - turn57,cityPerth
+infection free fail - turn57,cityAdelaide
+infection free fail - turn57,cityNewcastle
+infection free fail - turn57,cityGold Coast
+infection free fail - turn57,cityCanberra
+infection free fail - turn57,cityWollongong
+infection free fail - turn57,citySunshine Coast
+infection free fail - turn57,cityGeelong
+infection free fail - turn57,cityTownsville
+infection free fail - turn57,cityCairns
+infection free fail - turn57,cityAlbury Wodonga
+infection free fail - turn57,cityDarwin
+infection free fail - turn57,cityToowoomba
+infection free fail - turn57,cityBallarat
+infection free fail - turn57,cityBendigo
+infection free fail - turn57,cityBathurst Orange
+infection free fail - turn57,cityMackay
+infection free fail - turn57,cityRockhampton
+infection free fail - turn57,cityCoffs Harbour
+infection free fail - turn57,cityBundaberg
+infection free fail - turn57,cityWagga Wagga
+infection free fail - turn57,cityMildura
+infection free fail - turn57,cityShepparton Mooroopna
+infection free fail - turn57,cityGladstone
+infection free fail - turn57,cityHervey Bay
+infection free fail - turn57,cityDubbo
+infection free fail - turn57,cityTamworth
+infection free fail - turn57,cityPort Macquarie
+infection free fail - turn57,cityKalgoorlie Boulder
+infection free fail - turn57,cityWarrnambool
+infection free fail - turn57,cityGeraldton
+infection free fail - turn57,cityBunbury
+infection free fail - turn57,cityAlbany
+infection free fail - turn57,cityAlice Springs
+infection free fail - turn57,cityBroome
+infection free fail - turn57,cityPort Augusta
+infection free fail - turn58,citySydney
+infection free fail - turn58,cityMelbourne
+infection free fail - turn58,cityBrisbane
+infection free fail - turn58,cityPerth
+infection free fail - turn58,cityAdelaide
+infection free fail - turn58,cityNewcastle
+infection free fail - turn58,cityGold Coast
+infection free fail - turn58,cityCanberra
+infection free fail - turn58,cityWollongong
+infection free fail - turn58,citySunshine Coast
+infection free fail - turn58,cityGeelong
+infection free fail - turn58,cityTownsville
+infection free fail - turn58,cityCairns
+infection free fail - turn58,cityAlbury Wodonga
+infection free fail - turn58,cityDarwin
+infection free fail - turn58,cityToowoomba
+infection free fail - turn58,cityBallarat
+infection free fail - turn58,cityBendigo
+infection free fail - turn58,cityBathurst Orange
+infection free fail - turn58,cityMackay
+infection free fail - turn58,cityRockhampton
+infection free fail - turn58,cityCoffs Harbour
+infection free fail - turn58,cityBundaberg
+infection free fail - turn58,cityWagga Wagga
+infection free fail - turn58,cityMildura
+infection free fail - turn58,cityShepparton Mooroopna
+infection free fail - turn58,cityGladstone
+infection free fail - turn58,cityHervey Bay
+infection free fail - turn58,cityDubbo
+infection free fail - turn58,cityTamworth
+infection free fail - turn58,cityPort Macquarie
+infection free fail - turn58,cityKalgoorlie Boulder
+infection free fail - turn58,cityWarrnambool
+infection free fail - turn58,cityGeraldton
+infection free fail - turn58,cityBunbury
+infection free fail - turn58,cityAlbany
+infection free fail - turn58,cityAlice Springs
+infection free fail - turn58,cityBroome
+infection free fail - turn58,cityPort Augusta
+infection free fail - turn59,citySydney
+infection free fail - turn59,cityMelbourne
+infection free fail - turn59,cityBrisbane
+infection free fail - turn59,cityPerth
+infection free fail - turn59,cityAdelaide
+infection free fail - turn59,cityNewcastle
+infection free fail - turn59,cityGold Coast
+infection free fail - turn59,cityCanberra
+infection free fail - turn59,cityWollongong
+infection free fail - turn59,citySunshine Coast
+infection free fail - turn59,cityGeelong
+infection free fail - turn59,cityTownsville
+infection free fail - turn59,cityCairns
+infection free fail - turn59,cityAlbury Wodonga
+infection free fail - turn59,cityDarwin
+infection free fail - turn59,cityToowoomba
+infection free fail - turn59,cityBallarat
+infection free fail - turn59,cityBendigo
+infection free fail - turn59,cityBathurst Orange
+infection free fail - turn59,cityMackay
+infection free fail - turn59,cityRockhampton
+infection free fail - turn59,cityCoffs Harbour
+infection free fail - turn59,cityBundaberg
+infection free fail - turn59,cityWagga Wagga
+infection free fail - turn59,cityMildura
+infection free fail - turn59,cityShepparton Mooroopna
+infection free fail - turn59,cityGladstone
+infection free fail - turn59,cityHervey Bay
+infection free fail - turn59,cityDubbo
+infection free fail - turn59,cityTamworth
+infection free fail - turn59,cityPort Macquarie
+infection free fail - turn59,cityKalgoorlie Boulder
+infection free fail - turn59,cityWarrnambool
+infection free fail - turn59,cityGeraldton
+infection free fail - turn59,cityBunbury
+infection free fail - turn59,cityAlbany
+infection free fail - turn59,cityAlice Springs
+infection free fail - turn59,cityBroome
+infection free fail - turn59,cityPort Augusta
+infection free fail - turn60,citySydney
+infection free fail - turn60,cityMelbourne
+infection free fail - turn60,cityBrisbane
+infection free fail - turn60,cityPerth
+infection free fail - turn60,cityAdelaide
+infection free fail - turn60,cityNewcastle
+infection free fail - turn60,cityGold Coast
+infection free fail - turn60,cityCanberra
+infection free fail - turn60,cityWollongong
+infection free fail - turn60,citySunshine Coast
+infection free fail - turn60,cityGeelong
+infection free fail - turn60,cityTownsville
+infection free fail - turn60,cityCairns
+infection free fail - turn60,cityAlbury Wodonga
+infection free fail - turn60,cityDarwin
+infection free fail - turn60,cityToowoomba
+infection free fail - turn60,cityBallarat
+infection free fail - turn60,cityBendigo
+infection free fail - turn60,cityBathurst Orange
+infection free fail - turn60,cityMackay
+infection free fail - turn60,cityRockhampton
+infection free fail - turn60,cityCoffs Harbour
+infection free fail - turn60,cityBundaberg
+infection free fail - turn60,cityWagga Wagga
+infection free fail - turn60,cityMildura
+infection free fail - turn60,cityShepparton Mooroopna
+infection free fail - turn60,cityGladstone
+infection free fail - turn60,cityHervey Bay
+infection free fail - turn60,cityDubbo
+infection free fail - turn60,cityTamworth
+infection free fail - turn60,cityPort Macquarie
+infection free fail - turn60,cityKalgoorlie Boulder
+infection free fail - turn60,cityWarrnambool
+infection free fail - turn60,cityGeraldton
+infection free fail - turn60,cityBunbury
+infection free fail - turn60,cityAlbany
+infection free fail - turn60,cityAlice Springs
+infection free fail - turn60,cityBroome
+infection free fail - turn60,cityPort Augusta
+infection free fail - turn61,citySydney
+infection free fail - turn61,cityMelbourne
+infection free fail - turn61,cityBrisbane
+infection free fail - turn61,cityPerth
+infection free fail - turn61,cityAdelaide
+infection free fail - turn61,cityNewcastle
+infection free fail - turn61,cityGold Coast
+infection free fail - turn61,cityCanberra
+infection free fail - turn61,cityWollongong
+infection free fail - turn61,citySunshine Coast
+infection free fail - turn61,cityGeelong
+infection free fail - turn61,cityTownsville
+infection free fail - turn61,cityCairns
+infection free fail - turn61,cityAlbury Wodonga
+infection free fail - turn61,cityDarwin
+infection free fail - turn61,cityToowoomba
+infection free fail - turn61,cityBallarat
+infection free fail - turn61,cityBendigo
+infection free fail - turn61,cityBathurst Orange
+infection free fail - turn61,cityMackay
+infection free fail - turn61,cityRockhampton
+infection free fail - turn61,cityCoffs Harbour
+infection free fail - turn61,cityBundaberg
+infection free fail - turn61,cityWagga Wagga
+infection free fail - turn61,cityMildura
+infection free fail - turn61,cityShepparton Mooroopna
+infection free fail - turn61,cityGladstone
+infection free fail - turn61,cityHervey Bay
+infection free fail - turn61,cityDubbo
+infection free fail - turn61,cityTamworth
+infection free fail - turn61,cityPort Macquarie
+infection free fail - turn61,cityKalgoorlie Boulder
+infection free fail - turn61,cityWarrnambool
+infection free fail - turn61,cityGeraldton
+infection free fail - turn61,cityBunbury
+infection free fail - turn61,cityAlbany
+infection free fail - turn61,cityAlice Springs
+infection free fail - turn61,cityBroome
+infection free fail - turn61,cityPort Augusta
+infection free fail - turn62,citySydney
+infection free fail - turn62,cityMelbourne
+infection free fail - turn62,cityBrisbane
+infection free fail - turn62,cityPerth
+infection free fail - turn62,cityAdelaide
+infection free fail - turn62,cityNewcastle
+infection free fail - turn62,cityGold Coast
+infection free fail - turn62,cityCanberra
+infection free fail - turn62,cityWollongong
+infection free fail - turn62,citySunshine Coast
+infection free fail - turn62,cityGeelong
+infection free fail - turn62,cityTownsville
+infection free fail - turn62,cityCairns
+infection free fail - turn62,cityAlbury Wodonga
+infection free fail - turn62,cityDarwin
+infection free fail - turn62,cityToowoomba
+infection free fail - turn62,cityBallarat
+infection free fail - turn62,cityBendigo
+infection free fail - turn62,cityBathurst Orange
+infection free fail - turn62,cityMackay
+infection free fail - turn62,cityRockhampton
+infection free fail - turn62,cityCoffs Harbour
+infection free fail - turn62,cityBundaberg
+infection free fail - turn62,cityWagga Wagga
+infection free fail - turn62,cityMildura
+infection free fail - turn62,cityShepparton Mooroopna
+infection free fail - turn62,cityGladstone
+infection free fail - turn62,cityHervey Bay
+infection free fail - turn62,cityDubbo
+infection free fail - turn62,cityTamworth
+infection free fail - turn62,cityPort Macquarie
+infection free fail - turn62,cityKalgoorlie Boulder
+infection free fail - turn62,cityWarrnambool
+infection free fail - turn62,cityGeraldton
+infection free fail - turn62,cityBunbury
+infection free fail - turn62,cityAlbany
+infection free fail - turn62,cityAlice Springs
+infection free fail - turn62,cityBroome
+infection free fail - turn62,cityPort Augusta
+infection free fail - turn63,citySydney
+infection free fail - turn63,cityMelbourne
+infection free fail - turn63,cityBrisbane
+infection free fail - turn63,cityPerth
+infection free fail - turn63,cityAdelaide
+infection free fail - turn63,cityNewcastle
+infection free fail - turn63,cityGold Coast
+infection free fail - turn63,cityCanberra
+infection free fail - turn63,cityWollongong
+infection free fail - turn63,citySunshine Coast
+infection free fail - turn63,cityGeelong
+infection free fail - turn63,cityTownsville
+infection free fail - turn63,cityCairns
+infection free fail - turn63,cityAlbury Wodonga
+infection free fail - turn63,cityDarwin
+infection free fail - turn63,cityToowoomba
+infection free fail - turn63,cityBallarat
+infection free fail - turn63,cityBendigo
+infection free fail - turn63,cityBathurst Orange
+infection free fail - turn63,cityMackay
+infection free fail - turn63,cityRockhampton
+infection free fail - turn63,cityCoffs Harbour
+infection free fail - turn63,cityBundaberg
+infection free fail - turn63,cityWagga Wagga
+infection free fail - turn63,cityMildura
+infection free fail - turn63,cityShepparton Mooroopna
+infection free fail - turn63,cityGladstone
+infection free fail - turn63,cityHervey Bay
+infection free fail - turn63,cityDubbo
+infection free fail - turn63,cityTamworth
+infection free fail - turn63,cityPort Macquarie
+infection free fail - turn63,cityKalgoorlie Boulder
+infection free fail - turn63,cityWarrnambool
+infection free fail - turn63,cityGeraldton
+infection free fail - turn63,cityBunbury
+infection free fail - turn63,cityAlbany
+infection free fail - turn63,cityAlice Springs
+infection free fail - turn63,cityBroome
+infection free fail - turn63,cityPort Augusta
+infection free fail - turn64,citySydney
+infection free fail - turn64,cityMelbourne
+infection free fail - turn64,cityBrisbane
+infection free fail - turn64,cityPerth
+infection free fail - turn64,cityAdelaide
+infection free fail - turn64,cityNewcastle
+infection free fail - turn64,cityGold Coast
+infection free fail - turn64,cityCanberra
+infection free fail - turn64,cityWollongong
+infection free fail - turn64,citySunshine Coast
+infection free fail - turn64,cityGeelong
+infection free fail - turn64,cityTownsville
+infection free fail - turn64,cityCairns
+infection free fail - turn64,cityAlbury Wodonga
+infection free fail - turn64,cityDarwin
+infection free fail - turn64,cityToowoomba
+infection free fail - turn64,cityBallarat
+infection free fail - turn64,cityBendigo
+infection free fail - turn64,cityBathurst Orange
+infection free fail - turn64,cityMackay
+infection free fail - turn64,cityRockhampton
+infection free fail - turn64,cityCoffs Harbour
+infection free fail - turn64,cityBundaberg
+infection free fail - turn64,cityWagga Wagga
+infection free fail - turn64,cityMildura
+infection free fail - turn64,cityShepparton Mooroopna
+infection free fail - turn64,cityGladstone
+infection free fail - turn64,cityHervey Bay
+infection free fail - turn64,cityDubbo
+infection free fail - turn64,cityTamworth
+infection free fail - turn64,cityPort Macquarie
+infection free fail - turn64,cityKalgoorlie Boulder
+infection free fail - turn64,cityWarrnambool
+infection free fail - turn64,cityGeraldton
+infection free fail - turn64,cityBunbury
+infection free fail - turn64,cityAlbany
+infection free fail - turn64,cityAlice Springs
+infection free fail - turn64,cityBroome
+infection free fail - turn64,cityPort Augusta
+infection free fail - turn65,citySydney
+infection free fail - turn65,cityMelbourne
+infection free fail - turn65,cityBrisbane
+infection free fail - turn65,cityPerth
+infection free fail - turn65,cityAdelaide
+infection free fail - turn65,cityNewcastle
+infection free fail - turn65,cityGold Coast
+infection free fail - turn65,cityCanberra
+infection free fail - turn65,cityWollongong
+infection free fail - turn65,citySunshine Coast
+infection free fail - turn65,cityGeelong
+infection free fail - turn65,cityTownsville
+infection free fail - turn65,cityCairns
+infection free fail - turn65,cityAlbury Wodonga
+infection free fail - turn65,cityDarwin
+infection free fail - turn65,cityToowoomba
+infection free fail - turn65,cityBallarat
+infection free fail - turn65,cityBendigo
+infection free fail - turn65,cityBathurst Orange
+infection free fail - turn65,cityMackay
+infection free fail - turn65,cityRockhampton
+infection free fail - turn65,cityCoffs Harbour
+infection free fail - turn65,cityBundaberg
+infection free fail - turn65,cityWagga Wagga
+infection free fail - turn65,cityMildura
+infection free fail - turn65,cityShepparton Mooroopna
+infection free fail - turn65,cityGladstone
+infection free fail - turn65,cityHervey Bay
+infection free fail - turn65,cityDubbo
+infection free fail - turn65,cityTamworth
+infection free fail - turn65,cityPort Macquarie
+infection free fail - turn65,cityKalgoorlie Boulder
+infection free fail - turn65,cityWarrnambool
+infection free fail - turn65,cityGeraldton
+infection free fail - turn65,cityBunbury
+infection free fail - turn65,cityAlbany
+infection free fail - turn65,cityAlice Springs
+infection free fail - turn65,cityBroome
+infection free fail - turn65,cityPort Augusta
+infection free fail - turn66,citySydney
+infection free fail - turn66,cityMelbourne
+infection free fail - turn66,cityBrisbane
+infection free fail - turn66,cityPerth
+infection free fail - turn66,cityAdelaide
+infection free fail - turn66,cityNewcastle
+infection free fail - turn66,cityGold Coast
+infection free fail - turn66,cityCanberra
+infection free fail - turn66,cityWollongong
+infection free fail - turn66,citySunshine Coast
+infection free fail - turn66,cityGeelong
+infection free fail - turn66,cityTownsville
+infection free fail - turn66,cityCairns
+infection free fail - turn66,cityAlbury Wodonga
+infection free fail - turn66,cityDarwin
+infection free fail - turn66,cityToowoomba
+infection free fail - turn66,cityBallarat
+infection free fail - turn66,cityBendigo
+infection free fail - turn66,cityBathurst Orange
+infection free fail - turn66,cityMackay
+infection free fail - turn66,cityRockhampton
+infection free fail - turn66,cityCoffs Harbour
+infection free fail - turn66,cityBundaberg
+infection free fail - turn66,cityWagga Wagga
+infection free fail - turn66,cityMildura
+infection free fail - turn66,cityShepparton Mooroopna
+infection free fail - turn66,cityGladstone
+infection free fail - turn66,cityHervey Bay
+infection free fail - turn66,cityDubbo
+infection free fail - turn66,cityTamworth
+infection free fail - turn66,cityPort Macquarie
+infection free fail - turn66,cityKalgoorlie Boulder
+infection free fail - turn66,cityWarrnambool
+infection free fail - turn66,cityGeraldton
+infection free fail - turn66,cityBunbury
+infection free fail - turn66,cityAlbany
+infection free fail - turn66,cityAlice Springs
+infection free fail - turn66,cityBroome
+infection free fail - turn66,cityPort Augusta
+infection free fail - turn67,citySydney
+infection free fail - turn67,cityMelbourne
+infection free fail - turn67,cityBrisbane
+infection free fail - turn67,cityPerth
+infection free fail - turn67,cityAdelaide
+infection free fail - turn67,cityNewcastle
+infection free fail - turn67,cityGold Coast
+infection free fail - turn67,cityCanberra
+infection free fail - turn67,cityWollongong
+infection free fail - turn67,citySunshine Coast
+infection free fail - turn67,cityGeelong
+infection free fail - turn67,cityTownsville
+infection free fail - turn67,cityCairns
+infection free fail - turn67,cityAlbury Wodonga
+infection free fail - turn67,cityDarwin
+infection free fail - turn67,cityToowoomba
+infection free fail - turn67,cityBallarat
+infection free fail - turn67,cityBendigo
+infection free fail - turn67,cityBathurst Orange
+infection free fail - turn67,cityMackay
+infection free fail - turn67,cityRockhampton
+infection free fail - turn67,cityCoffs Harbour
+infection free fail - turn67,cityBundaberg
+infection free fail - turn67,cityWagga Wagga
+infection free fail - turn67,cityMildura
+infection free fail - turn67,cityShepparton Mooroopna
+infection free fail - turn67,cityGladstone
+infection free fail - turn67,cityHervey Bay
+infection free fail - turn67,cityDubbo
+infection free fail - turn67,cityTamworth
+infection free fail - turn67,cityPort Macquarie
+infection free fail - turn67,cityKalgoorlie Boulder
+infection free fail - turn67,cityWarrnambool
+infection free fail - turn67,cityGeraldton
+infection free fail - turn67,cityBunbury
+infection free fail - turn67,cityAlbany
+infection free fail - turn67,cityAlice Springs
+infection free fail - turn67,cityBroome
+infection free fail - turn67,cityPort Augusta
+infection free fail - turn68,citySydney
+infection free fail - turn68,cityMelbourne
+infection free fail - turn68,cityBrisbane
+infection free fail - turn68,cityPerth
+infection free fail - turn68,cityAdelaide
+infection free fail - turn68,cityNewcastle
+infection free fail - turn68,cityGold Coast
+infection free fail - turn68,cityCanberra
+infection free fail - turn68,cityWollongong
+infection free fail - turn68,citySunshine Coast
+infection free fail - turn68,cityGeelong
+infection free fail - turn68,cityTownsville
+infection free fail - turn68,cityCairns
+infection free fail - turn68,cityAlbury Wodonga
+infection free fail - turn68,cityDarwin
+infection free fail - turn68,cityToowoomba
+infection free fail - turn68,cityBallarat
+infection free fail - turn68,cityBendigo
+infection free fail - turn68,cityBathurst Orange
+infection free fail - turn68,cityMackay
+infection free fail - turn68,cityRockhampton
+infection free fail - turn68,cityCoffs Harbour
+infection free fail - turn68,cityBundaberg
+infection free fail - turn68,cityWagga Wagga
+infection free fail - turn68,cityMildura
+infection free fail - turn68,cityShepparton Mooroopna
+infection free fail - turn68,cityGladstone
+infection free fail - turn68,cityHervey Bay
+infection free fail - turn68,cityDubbo
+infection free fail - turn68,cityTamworth
+infection free fail - turn68,cityPort Macquarie
+infection free fail - turn68,cityKalgoorlie Boulder
+infection free fail - turn68,cityWarrnambool
+infection free fail - turn68,cityGeraldton
+infection free fail - turn68,cityBunbury
+infection free fail - turn68,cityAlbany
+infection free fail - turn68,cityAlice Springs
+infection free fail - turn68,cityBroome
+infection free fail - turn68,cityPort Augusta
+=========================== End of Log ===========================

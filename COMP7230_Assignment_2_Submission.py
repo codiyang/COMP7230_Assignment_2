@@ -99,7 +99,7 @@ from matplotlib import gridspec
 """
 ########################################################################################################################
 #                           Change this to run a different simulation
-SIMULATION_NUMBER = 1  # An integer from 0 to 5 corresponding to the particular simulation we are running
+SIMULATION_NUMBER = 0  # An integer from 0 to 5 corresponding to the particular simulation we are running
 ########################################################################################################################
 
 # Create a logging directory if there isn't one there already.
@@ -240,18 +240,15 @@ class City(object):
             if self.healthy_population < hc:
                 self.infected += self.healthy_population
                 self.healthy_population = 0
-                LOG_FILE.write("Spread infection fail - turn{},city{}\n".format(engine.turn_number, self.name))
 
                 if SIMULATION_NUMBER == 0:
                     LOG_FILE.write("Everyone in {} was infected and died in turn number {}\n".format(self.name, engine.turn_number))
                 elif SIMULATION_NUMBER >= 0:
                     LOG_FILE.write("Everyone in {} was infected in turn number {}\n".format(self.name, engine.turn_number))
 
-
             elif self.infected > 0:
                 self.healthy_population -= hc
                 self.infected += hc
-
 
 
     def infection_free(self):
@@ -263,8 +260,7 @@ class City(object):
             self.infected = 0
             LOG_FILE.write("The city {} became infection free in turn number {}; total death {}, total survivors {}.\n".
                            format(self.name, engine.turn_number, self.dead, self.survivors))
-        else:
-            LOG_FILE.write("infection free fail - turn{},city{}\n".format(engine.turn_number,self.name))
+
 
 ########################################################################################################################
 #                               Treatment Centre Class - Part 2
