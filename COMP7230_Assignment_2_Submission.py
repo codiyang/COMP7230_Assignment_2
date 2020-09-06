@@ -143,13 +143,16 @@ AVERAGE_DURATION = 4.0  # The average number of turns to recover or die, (float 
 # Q2: I have setup logging process to record some special stages of the significant events including:
 #     Q2-1): When the process starts, write a record to logbook with the simulation number.
 #     Q2-2): When the first infected case appears in a city, write a record to logbook.
-#     Q2-3): When everyone in the city is either dead or has been infected. I've added records as per simulation conditions.
-#            In simulation 0, since the mortality rate is 100%, all infected people will be dead in this stage.
+#     Q2-3): When everyone in the city is either dead or has been infected. I've added records depending on simulation conditions.
+#            In simulation 0, since the mortality rate is 100%, all infected people will be dead at this stage.
 #            In other simulations, there will be some infected people recovered and survived.
-#     Q2-4): When everyone in the city is either recovered or infected, hence no more infection could happen again. I've listed death number and survivor numbers for references.
+#     Q2-4): When everyone in the city is either recovered or infected, hence no more infection could happen again.
+#            Hence we consider this city as infection free, add a record to list death number and survivor numbers for references.
+#            However some cities might never reach this stage if they always have healthy people remain. They will always face risk of new infections.
 #     Q2-5): At the end of the run, a record will be wrote on logbook to show the ending.
 #     Q2-6): I did not add records when a city temporarily has infection number less than 10.
 #            Although the city could be considered as infection free to that specific time, it's still facing many more potential infections in the furture.
+#            I attempted several times and had hundreds of repeated records. There's no point to record temporary clear status.
 
 # Q2: Code documentation and naming:
 #     I've added documentations and comments in City class.
@@ -225,7 +228,7 @@ class City(object):
         Add incoming infected cases to total infected."""
 
         if self.infected == 0 and self.incoming_infected > 0 and not self.has_been_infected:
-            LOG_FILE.write("The pandemic reached {} for the first time in turn number {}.\n".format(self.name, engine.turn_number))
+            LOG_FILE.write("The pandemic reached {} for the first time in turn number {}. \n".format(self.name, engine.turn_number))
             self.has_been_infected = True
 
         # Transfer incoming infected numbers to the city and clear incoming_infected.
@@ -311,7 +314,7 @@ class City(object):
             LOG_FILE.write("The city {} became infection free in turn number {}; total death {}, total survivors {}.\n".
                            format(self.name, engine.turn_number, self.dead, self.survivors))
 
-
+    list = ()
     def run_turn(self, turn_number):
         """ Runs the following functions to calculate the movement of infected cases to neighbour cities,
         the number of patients survived or dead, and whether the city could be infected again.  """
@@ -617,9 +620,19 @@ if __name__ == "__main__":
     #                               Answer to Q4 goes here
     ####################################################################################################################
     if SIMULATION_NUMBER == 4:
-        for i in range(20):
-            engine.run_turn()
-            print("Ran turn{}".format(engine.turn_number))
+        pass
+
+    # Q4 answer: Base on the assumption the shipment of medicine will arrive after 20 turns and I would have the choice
+    #            to close 3 connections on the map until then.
+    #            My simple assumption is that among the first three cities being infected, the city with highest infected
+    #            number (Brisbane) is most likely to produce more new cases and part of them will move to neighbour cities.
+    #            Among all the neighbour cities, the cities with largest population are likely to produce more new cases.
+    #            Hence I would block the connections between Brisbane and the three neighbours cities with largest populations.
+
+    #            A more delicate way will be calculate the infection numbers for each city for each turn. After 20 turns
+    #            we would be able to see which cities have the largest number of infected cases. However the three initial
+    #            cities have common neighbours and block of connection would affect the number of cases moved into neighbour
+    #            cities. This would require heavy calculation and more delicate logic.
 
     ####################################################################################################################
     #                               Answer to Q5 goes here
