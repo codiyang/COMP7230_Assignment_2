@@ -175,7 +175,7 @@ class City(object):
     def start_of_turn(self):
         # Needs to happen here
         if self.infected == 0 and self.incoming_infected > 0 and not self.has_been_infected:
-            LOG_FILE.write("The pandemic reached the city for the first time. Turn No?")
+            LOG_FILE.write("The pandemic reached {} for the first time. Turn No?".format(self.name))
             self.has_been_infected = True
 
         self.infected += self.incoming_infected
