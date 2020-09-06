@@ -1,0 +1,102 @@
+-33.87,151.21,Sydney,5029768
+-37.81,144.96,Melbourne,4725316
+-27.46,153.02,Brisbane,2360241
+-31.96,115.84,Perth,2022044
+-34.93,138.6,Adelaide,1324279
+-32.92,151.75,Newcastle,436171
+-28.07,153.44,Gold Coast,646983
+-35.31,149.13,Canberra,435019
+-34.42,150.87,Wollongong,295669
+-25.88,152.56,Sunshine Coast,317404
+-38.14,144.32,Geelong,192393
+-19.26,146.78,Townsville,178864
+-16.92,145.75,Cairns,150041
+-36.06,146.92,Albury Wodonga,90576
+-12.43,130.85,Darwin,145916
+-27.56,151.96,Toowoomba,114024
+-37.56,143.84,Ballarat,101588
+-36.76,144.28,Bendigo,95587
+-33.42,149.57,Bathurst Orange,39755
+-21.14,149.18,Mackay,80755
+-23.37,150.51,Rockhampton,78795
+-30.3,153.12,Coffs Harbour,70134
+-24.87,152.35,Bundaberg,70310
+-35.12,147.35,Wagga Wagga,55960
+-34.19,142.16,Mildura,50998
+-36.37,145.4,Shepparton Mooroopna,50693
+-23.85,151.25,Gladstone,45086
+-25.29,152.84,Hervey Bay,52806
+-32.25,148.6,Dubbo,37125
+-31.1,150.92,Tamworth,41978
+-31.44,152.91,Port Macquarie,46247
+-30.74,121.46,Kalgoorlie Boulder,30682
+-38.38,142.47,Warrnambool,34618
+-28.77,114.59,Geraldton,38289
+-33.35,115.65,Bunbury,74113
+-35.02,117.88,Albany,33915
+-23.70,133.87,Alice Springs,27972
+-17.97,122.24,Broome,14776
+-32.49,137.76,Port Augusta,14215
+###
+Sydney,Newcastle
+Sydney,Wollongong
+Sydney,Canberra
+Melbourne,Geelong
+Cairns,Townsville
+Brisbane,Sunshine Coast
+Perth,Albany
+Perth,Bunbury
+Albany,Bunbury
+Perth,Geraldton
+Perth,Kalgoorlie Boulder
+Geraldton,Kalgoorlie Boulder
+Albany,Kalgoorlie Boulder
+Townsville,Mackay
+Mackay,Rockhampton
+Rockhampton,Gladstone
+Gladstone,Bundaberg
+Bundaberg,Hervey Bay
+Bundaberg,Sunshine Coast
+Hervey Bay,Sunshine Coast
+Sunshine Coast,Toowoomba
+Brisbane,Toowoomba
+Brisbane,Gold Coast
+Gold Coast,Coffs Harbour
+Gold Coast,Tamworth
+Coffs Harbour,Tamworth
+Coffs Harbour,Port Macquarie
+Tamworth,Port Macquarie
+Tamworth,Dubbo
+Port Macquarie,Newcastle
+Dubbo,Newcastle
+Dubbo,Bathurst Orange
+Bathurst Orange,Sydney
+Wollongong,Canberra
+Canberra,Wagga Wagga
+Canberra,Albury Wodonga
+Wagga Wagga,Albury Wodonga
+Albury Wodonga,Shepparton Mooroopna
+Albury Wodonga,Mildura
+Albury Wodonga,Melbourne
+Shepparton Mooroopna,Bendigo
+Bendigo,Ballarat
+Ballarat,Melbourne
+Ballarat,Geelong
+Geelong,Warrnambool
+Warrnambool,Adelaide
+Adelaide,Mildura
+Wagga Wagga,Mildura
+Dubbo,Wagga Wagga
+Dubbo,Mildura
+Geraldton,Broome
+Broome,Darwin
+Darwin,Alice Springs
+Darwin,Cairns
+Alice Springs,Townsville
+Alice Springs,Toowoomba
+Alice Springs,Port Augusta
+Alice Springs,Dubbo
+Port Augusta,Adelaide
+Port Augusta,Mildura
+Kalgoorlie Boulder,Port Augusta
+Kalgoorlie Boulder,Alice Springs
