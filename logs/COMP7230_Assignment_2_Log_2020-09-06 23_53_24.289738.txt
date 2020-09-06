@@ -1,0 +1,31 @@
+The pandemic reached Brisbane for the first time in turn number 0.
+The pandemic reached Gold Coast for the first time in turn number 0.
+The pandemic reached Rockhampton for the first time in turn number 0.
+The pandemic reached Sunshine Coast for the first time in turn number 1.
+The pandemic reached Toowoomba for the first time in turn number 1.
+The pandemic reached Mackay for the first time in turn number 1.
+The pandemic reached Coffs Harbour for the first time in turn number 1.
+The pandemic reached Gladstone for the first time in turn number 1.
+The pandemic reached Tamworth for the first time in turn number 1.
+The pandemic reached Townsville for the first time in turn number 2.
+The pandemic reached Bundaberg for the first time in turn number 2.
+The pandemic reached Hervey Bay for the first time in turn number 2.
+The pandemic reached Dubbo for the first time in turn number 2.
+The pandemic reached Port Macquarie for the first time in turn number 2.
+The pandemic reached Alice Springs for the first time in turn number 2.
+The pandemic reached Cairns for the first time in turn number 3.
+The pandemic reached Darwin for the first time in turn number 3.
+The pandemic reached Kalgoorlie Boulder for the first time in turn number 3.
+The pandemic reached Port Augusta for the first time in turn number 3.
+The pandemic reached Newcastle for the first time in turn number 4.
+The pandemic reached Bathurst Orange for the first time in turn number 5.
+The pandemic reached Wagga Wagga for the first time in turn number 5.
+The pandemic reached Mildura for the first time in turn number 5.
+The pandemic reached Adelaide for the first time in turn number 7.
+The pandemic reached Broome for the first time in turn number 7.
+The pandemic reached Sydney for the first time in turn number 8.
+The pandemic reached Perth for the first time in turn number 8.
+The pandemic reached Geraldton for the first time in turn number 8.
+The pandemic reached Albany for the first time in turn number 8.
+The pandemic reached Albury Wodonga for the first time in turn number 14.
+The pandemic reached Canberra for the first time in turn number 17.

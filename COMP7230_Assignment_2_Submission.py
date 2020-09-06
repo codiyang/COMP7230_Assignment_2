@@ -99,7 +99,7 @@ from matplotlib import gridspec
 """
 ########################################################################################################################
 #                           Change this to run a different simulation
-SIMULATION_NUMBER = 0  # An integer from 0 to 5 corresponding to the particular simulation we are running
+SIMULATION_NUMBER = 1  # An integer from 0 to 5 corresponding to the particular simulation we are running
 ########################################################################################################################
 
 # Create a logging directory if there isn't one there already.
@@ -110,6 +110,7 @@ if not os.path.exists(os.path.join(os.getcwd(), "logs")):
 #                           Write to this log file for Question 2
 LOG_FILE = open(os.path.join(os.getcwd(), "logs", "COMP7230_Assignment_2_Log_{}.txt".format(
     str(datetime.datetime.now()).replace(":", "_"))), mode="w")
+LOG_FILE.write("=========================== Pandemic Simulation " + str(SIMULATION_NUMBER) + " ===========================\n")
 ########################################################################################################################
 
 
@@ -152,7 +153,9 @@ class City(object):
         self.healthy_population = population
         self.neighbours = set()  # These are other instances of the city class.
 
+
         self.has_been_infected = False
+
 
     def __hash__(self):
         return hash(self.name)
@@ -175,7 +178,7 @@ class City(object):
     def start_of_turn(self):
         # Needs to happen here
         if self.infected == 0 and self.incoming_infected > 0 and not self.has_been_infected:
-            LOG_FILE.write("The pandemic reached {} for the first time. Turn No?".format(self.name))
+            LOG_FILE.write("The pandemic reached {} for the first time in turn number {}.\n".format(self.name, engine.turn_number))
             self.has_been_infected = True
 
         self.infected += self.incoming_infected
@@ -201,7 +204,7 @@ class City(object):
         self.move_infected()
         self.change_in_infected_numbers()
         self.spread_infection()
-
+        self.infection_free()
 
     def move_infected(self):
 
@@ -237,17 +240,31 @@ class City(object):
             if self.healthy_population < hc:
                 self.infected += self.healthy_population
                 self.healthy_population = 0
-                LOG_FILE.write("Everyone in the city was infected. Turn No?")
+                LOG_FILE.write("Spread infection fail - turn{},city{}\n".format(engine.turn_number, self.name))
+
+                if SIMULATION_NUMBER == 0:
+                    LOG_FILE.write("Everyone in {} was infected and died in turn number {}\n".format(self.name, engine.turn_number))
+                elif SIMULATION_NUMBER >= 0:
+                    LOG_FILE.write("Everyone in {} was infected in turn number {}\n".format(self.name, engine.turn_number))
+
 
             elif self.infected > 0:
                 self.healthy_population -= hc
                 self.infected += hc
 
+
+
+    def infection_free(self):
+        """Added this function to define when is a city considered as infection free"""
+
         if self.infected < 10 and self.healthy_population == 0:
             self.dead += int(self.infected * MORTALITY_RATE)
             self.survivors += (self.infected - int(self.infected * MORTALITY_RATE))
             self.infected = 0
-
+            LOG_FILE.write("The city {} became infection free in turn number {}; total death {}, total survivors {}.\n".
+                           format(self.name, engine.turn_number, self.dead, self.survivors))
+        else:
+            LOG_FILE.write("infection free fail - turn{},city{}\n".format(engine.turn_number,self.name))
 
 ########################################################################################################################
 #                               Treatment Centre Class - Part 2
@@ -447,6 +464,8 @@ def animate_map(data, engine, map_image, sp1, sp2, sp3, sp4):
     if (engine.infected and engine.infected[-1] == 0) or (STOPPING_CONDITIONS and
                                                           engine.turn_number >= STOPPING_CONDITIONS):
         get_input = input("The simulation has ended; press 'Enter' to finish.")
+
+        LOG_FILE.write("=========================== End of Log ===========================\n")
         LOG_FILE.close()
         sys.exit()
 

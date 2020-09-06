@@ -1,0 +1,372 @@
+============================Pandemic Simulation 0============================
+The pandemic reached Alice Springs for the first time in turn number 1.
+The pandemic reached Townsville for the first time in turn number 2.
+The pandemic reached Darwin for the first time in turn number 2.
+The pandemic reached Toowoomba for the first time in turn number 2.
+The pandemic reached Dubbo for the first time in turn number 2.
+The pandemic reached Kalgoorlie Boulder for the first time in turn number 2.
+The pandemic reached Port Augusta for the first time in turn number 2.
+Everyone in Alice Springs was infected and died in turn number 3
+The pandemic reached Brisbane for the first time in turn number 4.
+The pandemic reached Perth for the first time in turn number 4.
+The pandemic reached Adelaide for the first time in turn number 4.
+The pandemic reached Newcastle for the first time in turn number 4.
+The pandemic reached Sunshine Coast for the first time in turn number 4.
+The pandemic reached Cairns for the first time in turn number 4.
+The pandemic reached Bathurst Orange for the first time in turn number 4.
+The pandemic reached Mackay for the first time in turn number 4.
+The pandemic reached Wagga Wagga for the first time in turn number 4.
+The pandemic reached Mildura for the first time in turn number 4.
+The pandemic reached Tamworth for the first time in turn number 4.
+The pandemic reached Geraldton for the first time in turn number 4.
+The pandemic reached Albany for the first time in turn number 4.
+The pandemic reached Broome for the first time in turn number 4.
+Everyone in Port Augusta was infected and died in turn number 6
+The pandemic reached Sydney for the first time in turn number 7.
+The pandemic reached Gold Coast for the first time in turn number 7.
+The pandemic reached Canberra for the first time in turn number 7.
+The pandemic reached Albury Wodonga for the first time in turn number 7.
+The pandemic reached Rockhampton for the first time in turn number 7.
+The pandemic reached Coffs Harbour for the first time in turn number 7.
+The pandemic reached Bundaberg for the first time in turn number 7.
+The pandemic reached Hervey Bay for the first time in turn number 7.
+The pandemic reached Port Macquarie for the first time in turn number 7.
+The pandemic reached Warrnambool for the first time in turn number 7.
+The pandemic reached Bunbury for the first time in turn number 7.
+Everyone in Dubbo was infected and died in turn number 7
+Everyone in Kalgoorlie Boulder was infected and died in turn number 7
+Everyone in Townsville was infected and died in turn number 8
+Everyone in Darwin was infected and died in turn number 8
+Everyone in Toowoomba was infected and died in turn number 8
+The pandemic reached Gladstone for the first time in turn number 9.
+Everyone in Mildura was infected and died in turn number 9
+Everyone in Broome was infected and died in turn number 9
+The pandemic reached Melbourne for the first time in turn number 10.
+The pandemic reached Wollongong for the first time in turn number 10.
+The pandemic reached Geelong for the first time in turn number 10.
+The pandemic reached Shepparton Mooroopna for the first time in turn number 10.
+Everyone in Cairns was infected and died in turn number 10
+Everyone in Bathurst Orange was infected and died in turn number 10
+Everyone in Mackay was infected and died in turn number 10
+Everyone in Wagga Wagga was infected and died in turn number 10
+Everyone in Tamworth was infected and died in turn number 10
+Everyone in Geraldton was infected and died in turn number 10
+Everyone in Albany was infected and died in turn number 10
+Everyone in Sunshine Coast was infected and died in turn number 11
+The pandemic reached Ballarat for the first time in turn number 12.
+The pandemic reached Bendigo for the first time in turn number 12.
+Everyone in Brisbane was infected and died in turn number 12
+Everyone in Newcastle was infected and died in turn number 12
+Everyone in Rockhampton was infected and died in turn number 12
+Everyone in Bundaberg was infected and died in turn number 12
+Everyone in Hervey Bay was infected and died in turn number 12
+Everyone in Port Macquarie was infected and died in turn number 12
+Everyone in Warrnambool was infected and died in turn number 12
+Everyone in Bunbury was infected and died in turn number 12
+Everyone in Perth was infected and died in turn number 13
+Everyone in Adelaide was infected and died in turn number 13
+Everyone in Albury Wodonga was infected and died in turn number 13
+Everyone in Coffs Harbour was infected and died in turn number 13
+Everyone in Gold Coast was infected and died in turn number 14
+Everyone in Gladstone was infected and died in turn number 14
+Everyone in Canberra was infected and died in turn number 15
+Everyone in Shepparton Mooroopna was infected and died in turn number 15
+Everyone in Sydney was infected and died in turn number 16
+Everyone in Wollongong was infected and died in turn number 16
+Everyone in Geelong was infected and died in turn number 16
+Everyone in Ballarat was infected and died in turn number 18
+Everyone in Bendigo was infected and died in turn number 18
+Everyone in Melbourne was infected and died in turn number 19
+The city Mackay became infection free in turn number 47; total death 84306, total survivors 0.
+The city Cairns became infection free in turn number 48; total death 134315, total survivors 0.
+The city Mackay became infection free in turn number 48; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 48; total death 75766, total survivors 0.
+The city Gladstone became infection free in turn number 48; total death 53593, total survivors 0.
+The city Cairns became infection free in turn number 49; total death 134315, total survivors 0.
+The city Mackay became infection free in turn number 49; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 49; total death 75766, total survivors 0.
+The city Gladstone became infection free in turn number 49; total death 53594, total survivors 0.
+The city Broome became infection free in turn number 49; total death 40074, total survivors 0.
+The city Cairns became infection free in turn number 50; total death 134315, total survivors 0.
+The city Mackay became infection free in turn number 50; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 50; total death 75766, total survivors 0.
+The city Gladstone became infection free in turn number 50; total death 53594, total survivors 0.
+The city Broome became infection free in turn number 50; total death 40075, total survivors 0.
+The city Townsville became infection free in turn number 51; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 51; total death 134315, total survivors 0.
+The city Mackay became infection free in turn number 51; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 51; total death 75766, total survivors 0.
+The city Gladstone became infection free in turn number 51; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 51; total death 82302, total survivors 0.
+The city Broome became infection free in turn number 51; total death 40075, total survivors 0.
+The city Townsville became infection free in turn number 52; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 52; total death 134315, total survivors 0.
+The city Darwin became infection free in turn number 52; total death 133623, total survivors 0.
+The city Mackay became infection free in turn number 52; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 52; total death 75766, total survivors 0.
+The city Bundaberg became infection free in turn number 52; total death 104602, total survivors 0.
+The city Gladstone became infection free in turn number 52; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 52; total death 82302, total survivors 0.
+The city Bunbury became infection free in turn number 52; total death 182747, total survivors 0.
+The city Broome became infection free in turn number 52; total death 40075, total survivors 0.
+The city Townsville became infection free in turn number 53; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 53; total death 134315, total survivors 0.
+The city Darwin became infection free in turn number 53; total death 133623, total survivors 0.
+The city Toowoomba became infection free in turn number 53; total death 300950, total survivors 0.
+The city Mackay became infection free in turn number 53; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 53; total death 75766, total survivors 0.
+The city Bundaberg became infection free in turn number 53; total death 104602, total survivors 0.
+The city Gladstone became infection free in turn number 53; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 53; total death 82302, total survivors 0.
+The city Geraldton became infection free in turn number 53; total death 157433, total survivors 0.
+The city Bunbury became infection free in turn number 53; total death 182747, total survivors 0.
+The city Albany became infection free in turn number 53; total death 176350, total survivors 0.
+The city Broome became infection free in turn number 53; total death 40075, total survivors 0.
+The city Brisbane became infection free in turn number 54; total death 1766902, total survivors 0.
+The city Perth became infection free in turn number 54; total death 1473624, total survivors 0.
+The city Sunshine Coast became infection free in turn number 54; total death 455223, total survivors 0.
+The city Townsville became infection free in turn number 54; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 54; total death 134315, total survivors 0.
+The city Darwin became infection free in turn number 54; total death 133623, total survivors 0.
+The city Toowoomba became infection free in turn number 54; total death 300950, total survivors 0.
+The city Mackay became infection free in turn number 54; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 54; total death 75766, total survivors 0.
+The city Bundaberg became infection free in turn number 54; total death 104602, total survivors 0.
+The city Gladstone became infection free in turn number 54; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 54; total death 82302, total survivors 0.
+The city Geraldton became infection free in turn number 54; total death 157433, total survivors 0.
+The city Bunbury became infection free in turn number 54; total death 182747, total survivors 0.
+The city Albany became infection free in turn number 54; total death 176350, total survivors 0.
+The city Broome became infection free in turn number 54; total death 40075, total survivors 0.
+The city Brisbane became infection free in turn number 55; total death 1766902, total survivors 0.
+The city Perth became infection free in turn number 55; total death 1473624, total survivors 0.
+The city Gold Coast became infection free in turn number 55; total death 653402, total survivors 0.
+The city Sunshine Coast became infection free in turn number 55; total death 455223, total survivors 0.
+The city Townsville became infection free in turn number 55; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 55; total death 134315, total survivors 0.
+The city Darwin became infection free in turn number 55; total death 133623, total survivors 0.
+The city Toowoomba became infection free in turn number 55; total death 300950, total survivors 0.
+The city Mackay became infection free in turn number 55; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 55; total death 75766, total survivors 0.
+The city Coffs Harbour became infection free in turn number 55; total death 137865, total survivors 0.
+The city Bundaberg became infection free in turn number 55; total death 104602, total survivors 0.
+The city Gladstone became infection free in turn number 55; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 55; total death 82302, total survivors 0.
+The city Kalgoorlie Boulder became infection free in turn number 55; total death 185242, total survivors 0.
+The city Geraldton became infection free in turn number 55; total death 157433, total survivors 0.
+The city Bunbury became infection free in turn number 55; total death 182747, total survivors 0.
+The city Albany became infection free in turn number 55; total death 176350, total survivors 0.
+The city Broome became infection free in turn number 55; total death 40075, total survivors 0.
+The city Brisbane became infection free in turn number 56; total death 1766902, total survivors 0.
+The city Perth became infection free in turn number 56; total death 1473624, total survivors 0.
+The city Gold Coast became infection free in turn number 56; total death 653402, total survivors 0.
+The city Sunshine Coast became infection free in turn number 56; total death 455223, total survivors 0.
+The city Townsville became infection free in turn number 56; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 56; total death 134315, total survivors 0.
+The city Darwin became infection free in turn number 56; total death 133623, total survivors 0.
+The city Toowoomba became infection free in turn number 56; total death 300950, total survivors 0.
+The city Mackay became infection free in turn number 56; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 56; total death 75766, total survivors 0.
+The city Coffs Harbour became infection free in turn number 56; total death 137865, total survivors 0.
+The city Bundaberg became infection free in turn number 56; total death 104602, total survivors 0.
+The city Gladstone became infection free in turn number 56; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 56; total death 82302, total survivors 0.
+The city Tamworth became infection free in turn number 56; total death 131500, total survivors 0.
+The city Port Macquarie became infection free in turn number 56; total death 118889, total survivors 0.
+The city Kalgoorlie Boulder became infection free in turn number 56; total death 185242, total survivors 0.
+The city Geraldton became infection free in turn number 56; total death 157433, total survivors 0.
+The city Bunbury became infection free in turn number 56; total death 182747, total survivors 0.
+The city Albany became infection free in turn number 56; total death 176350, total survivors 0.
+The city Alice Springs became infection free in turn number 56; total death 112502, total survivors 0.
+The city Broome became infection free in turn number 56; total death 40075, total survivors 0.
+The city Brisbane became infection free in turn number 57; total death 1766902, total survivors 0.
+The city Perth became infection free in turn number 57; total death 1473624, total survivors 0.
+The city Newcastle became infection free in turn number 57; total death 610463, total survivors 0.
+The city Gold Coast became infection free in turn number 57; total death 653402, total survivors 0.
+The city Sunshine Coast became infection free in turn number 57; total death 455223, total survivors 0.
+The city Townsville became infection free in turn number 57; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 57; total death 134315, total survivors 0.
+The city Darwin became infection free in turn number 57; total death 133623, total survivors 0.
+The city Toowoomba became infection free in turn number 57; total death 300950, total survivors 0.
+The city Bathurst Orange became infection free in turn number 57; total death 323823, total survivors 0.
+The city Mackay became infection free in turn number 57; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 57; total death 75766, total survivors 0.
+The city Coffs Harbour became infection free in turn number 57; total death 137865, total survivors 0.
+The city Bundaberg became infection free in turn number 57; total death 104602, total survivors 0.
+The city Gladstone became infection free in turn number 57; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 57; total death 82302, total survivors 0.
+The city Tamworth became infection free in turn number 57; total death 131500, total survivors 0.
+The city Port Macquarie became infection free in turn number 57; total death 118889, total survivors 0.
+The city Kalgoorlie Boulder became infection free in turn number 57; total death 185242, total survivors 0.
+The city Geraldton became infection free in turn number 57; total death 157433, total survivors 0.
+The city Bunbury became infection free in turn number 57; total death 182747, total survivors 0.
+The city Albany became infection free in turn number 57; total death 176350, total survivors 0.
+The city Alice Springs became infection free in turn number 57; total death 112502, total survivors 0.
+The city Broome became infection free in turn number 57; total death 40075, total survivors 0.
+The city Port Augusta became infection free in turn number 57; total death 138334, total survivors 0.
+The city Brisbane became infection free in turn number 58; total death 1766902, total survivors 0.
+The city Perth became infection free in turn number 58; total death 1473624, total survivors 0.
+The city Adelaide became infection free in turn number 58; total death 967345, total survivors 0.
+The city Newcastle became infection free in turn number 58; total death 610463, total survivors 0.
+The city Gold Coast became infection free in turn number 58; total death 653402, total survivors 0.
+The city Wollongong became infection free in turn number 58; total death 546881, total survivors 0.
+The city Sunshine Coast became infection free in turn number 58; total death 455223, total survivors 0.
+The city Townsville became infection free in turn number 58; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 58; total death 134315, total survivors 0.
+The city Darwin became infection free in turn number 58; total death 133623, total survivors 0.
+The city Toowoomba became infection free in turn number 58; total death 300950, total survivors 0.
+The city Bathurst Orange became infection free in turn number 58; total death 323823, total survivors 0.
+The city Mackay became infection free in turn number 58; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 58; total death 75766, total survivors 0.
+The city Coffs Harbour became infection free in turn number 58; total death 137865, total survivors 0.
+The city Bundaberg became infection free in turn number 58; total death 104602, total survivors 0.
+The city Gladstone became infection free in turn number 58; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 58; total death 82302, total survivors 0.
+The city Tamworth became infection free in turn number 58; total death 131500, total survivors 0.
+The city Port Macquarie became infection free in turn number 58; total death 118889, total survivors 0.
+The city Kalgoorlie Boulder became infection free in turn number 58; total death 185242, total survivors 0.
+The city Geraldton became infection free in turn number 58; total death 157433, total survivors 0.
+The city Bunbury became infection free in turn number 58; total death 182747, total survivors 0.
+The city Albany became infection free in turn number 58; total death 176350, total survivors 0.
+The city Alice Springs became infection free in turn number 58; total death 112502, total survivors 0.
+The city Broome became infection free in turn number 58; total death 40075, total survivors 0.
+The city Port Augusta became infection free in turn number 58; total death 138334, total survivors 0.
+The city Brisbane became infection free in turn number 59; total death 1766902, total survivors 0.
+The city Perth became infection free in turn number 59; total death 1473624, total survivors 0.
+The city Adelaide became infection free in turn number 59; total death 967345, total survivors 0.
+The city Newcastle became infection free in turn number 59; total death 610463, total survivors 0.
+The city Gold Coast became infection free in turn number 59; total death 653402, total survivors 0.
+The city Wollongong became infection free in turn number 59; total death 546881, total survivors 0.
+The city Sunshine Coast became infection free in turn number 59; total death 455223, total survivors 0.
+The city Townsville became infection free in turn number 59; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 59; total death 134315, total survivors 0.
+The city Darwin became infection free in turn number 59; total death 133623, total survivors 0.
+The city Toowoomba became infection free in turn number 59; total death 300950, total survivors 0.
+The city Bathurst Orange became infection free in turn number 59; total death 323823, total survivors 0.
+The city Mackay became infection free in turn number 59; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 59; total death 75766, total survivors 0.
+The city Coffs Harbour became infection free in turn number 59; total death 137865, total survivors 0.
+The city Bundaberg became infection free in turn number 59; total death 104602, total survivors 0.
+The city Shepparton Mooroopna became infection free in turn number 59; total death 86193, total survivors 0.
+The city Gladstone became infection free in turn number 59; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 59; total death 82302, total survivors 0.
+The city Tamworth became infection free in turn number 59; total death 131500, total survivors 0.
+The city Port Macquarie became infection free in turn number 59; total death 118889, total survivors 0.
+The city Kalgoorlie Boulder became infection free in turn number 59; total death 185242, total survivors 0.
+The city Warrnambool became infection free in turn number 59; total death 180822, total survivors 0.
+The city Geraldton became infection free in turn number 59; total death 157433, total survivors 0.
+The city Bunbury became infection free in turn number 59; total death 182747, total survivors 0.
+The city Albany became infection free in turn number 59; total death 176350, total survivors 0.
+The city Alice Springs became infection free in turn number 59; total death 112502, total survivors 0.
+The city Broome became infection free in turn number 59; total death 40075, total survivors 0.
+The city Port Augusta became infection free in turn number 59; total death 138334, total survivors 0.
+The city Sydney became infection free in turn number 60; total death 3733687, total survivors 0.
+The city Brisbane became infection free in turn number 60; total death 1766902, total survivors 0.
+The city Perth became infection free in turn number 60; total death 1473624, total survivors 0.
+The city Adelaide became infection free in turn number 60; total death 967345, total survivors 0.
+The city Newcastle became infection free in turn number 60; total death 610463, total survivors 0.
+The city Gold Coast became infection free in turn number 60; total death 653402, total survivors 0.
+The city Canberra became infection free in turn number 60; total death 714759, total survivors 0.
+The city Wollongong became infection free in turn number 60; total death 546881, total survivors 0.
+The city Sunshine Coast became infection free in turn number 60; total death 455223, total survivors 0.
+The city Townsville became infection free in turn number 60; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 60; total death 134315, total survivors 0.
+The city Darwin became infection free in turn number 60; total death 133623, total survivors 0.
+The city Toowoomba became infection free in turn number 60; total death 300950, total survivors 0.
+The city Bendigo became infection free in turn number 60; total death 130501, total survivors 0.
+The city Bathurst Orange became infection free in turn number 60; total death 323823, total survivors 0.
+The city Mackay became infection free in turn number 60; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 60; total death 75766, total survivors 0.
+The city Coffs Harbour became infection free in turn number 60; total death 137865, total survivors 0.
+The city Bundaberg became infection free in turn number 60; total death 104602, total survivors 0.
+The city Wagga Wagga became infection free in turn number 60; total death 145933, total survivors 0.
+The city Mildura became infection free in turn number 60; total death 196508, total survivors 0.
+The city Shepparton Mooroopna became infection free in turn number 60; total death 86193, total survivors 0.
+The city Gladstone became infection free in turn number 60; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 60; total death 82302, total survivors 0.
+The city Dubbo became infection free in turn number 60; total death 177361, total survivors 0.
+The city Tamworth became infection free in turn number 60; total death 131500, total survivors 0.
+The city Port Macquarie became infection free in turn number 60; total death 118889, total survivors 0.
+The city Kalgoorlie Boulder became infection free in turn number 60; total death 185242, total survivors 0.
+The city Warrnambool became infection free in turn number 60; total death 180822, total survivors 0.
+The city Geraldton became infection free in turn number 60; total death 157433, total survivors 0.
+The city Bunbury became infection free in turn number 60; total death 182747, total survivors 0.
+The city Albany became infection free in turn number 60; total death 176350, total survivors 0.
+The city Alice Springs became infection free in turn number 60; total death 112502, total survivors 0.
+The city Broome became infection free in turn number 60; total death 40075, total survivors 0.
+The city Port Augusta became infection free in turn number 60; total death 138334, total survivors 0.
+The city Sydney became infection free in turn number 61; total death 3733687, total survivors 0.
+The city Melbourne became infection free in turn number 61; total death 3411096, total survivors 0.
+The city Brisbane became infection free in turn number 61; total death 1766902, total survivors 0.
+The city Perth became infection free in turn number 61; total death 1473624, total survivors 0.
+The city Adelaide became infection free in turn number 61; total death 967345, total survivors 0.
+The city Newcastle became infection free in turn number 61; total death 610463, total survivors 0.
+The city Gold Coast became infection free in turn number 61; total death 653402, total survivors 0.
+The city Canberra became infection free in turn number 61; total death 714759, total survivors 0.
+The city Wollongong became infection free in turn number 61; total death 546881, total survivors 0.
+The city Sunshine Coast became infection free in turn number 61; total death 455223, total survivors 0.
+The city Townsville became infection free in turn number 61; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 61; total death 134315, total survivors 0.
+The city Darwin became infection free in turn number 61; total death 133623, total survivors 0.
+The city Toowoomba became infection free in turn number 61; total death 300950, total survivors 0.
+The city Bendigo became infection free in turn number 61; total death 130501, total survivors 0.
+The city Bathurst Orange became infection free in turn number 61; total death 323823, total survivors 0.
+The city Mackay became infection free in turn number 61; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 61; total death 75766, total survivors 0.
+The city Coffs Harbour became infection free in turn number 61; total death 137865, total survivors 0.
+The city Bundaberg became infection free in turn number 61; total death 104602, total survivors 0.
+The city Wagga Wagga became infection free in turn number 61; total death 145933, total survivors 0.
+The city Mildura became infection free in turn number 61; total death 196508, total survivors 0.
+The city Shepparton Mooroopna became infection free in turn number 61; total death 86193, total survivors 0.
+The city Gladstone became infection free in turn number 61; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 61; total death 82302, total survivors 0.
+The city Dubbo became infection free in turn number 61; total death 177361, total survivors 0.
+The city Tamworth became infection free in turn number 61; total death 131500, total survivors 0.
+The city Port Macquarie became infection free in turn number 61; total death 118889, total survivors 0.
+The city Kalgoorlie Boulder became infection free in turn number 61; total death 185242, total survivors 0.
+The city Warrnambool became infection free in turn number 61; total death 180822, total survivors 0.
+The city Geraldton became infection free in turn number 61; total death 157433, total survivors 0.
+The city Bunbury became infection free in turn number 61; total death 182747, total survivors 0.
+The city Albany became infection free in turn number 61; total death 176350, total survivors 0.
+The city Alice Springs became infection free in turn number 61; total death 112502, total survivors 0.
+The city Broome became infection free in turn number 61; total death 40075, total survivors 0.
+The city Port Augusta became infection free in turn number 61; total death 138334, total survivors 0.
+The city Sydney became infection free in turn number 62; total death 3733687, total survivors 0.
+The city Melbourne became infection free in turn number 62; total death 3411096, total survivors 0.
+The city Brisbane became infection free in turn number 62; total death 1766902, total survivors 0.
+The city Perth became infection free in turn number 62; total death 1473624, total survivors 0.
+The city Adelaide became infection free in turn number 62; total death 967345, total survivors 0.
+The city Newcastle became infection free in turn number 62; total death 610463, total survivors 0.
+The city Gold Coast became infection free in turn number 62; total death 653402, total survivors 0.
+The city Canberra became infection free in turn number 62; total death 714759, total survivors 0.
+The city Wollongong became infection free in turn number 62; total death 546881, total survivors 0.
+The city Sunshine Coast became infection free in turn number 62; total death 455223, total survivors 0.
+The city Geelong became infection free in turn number 62; total death 561930, total survivors 0.
+The city Townsville became infection free in turn number 62; total death 163233, total survivors 0.
+The city Cairns became infection free in turn number 62; total death 134315, total survivors 0.
+The city Albury Wodonga became infection free in turn number 62; total death 504117, total survivors 0.
+The city Darwin became infection free in turn number 62; total death 133623, total survivors 0.
+The city Toowoomba became infection free in turn number 62; total death 300950, total survivors 0.
+The city Ballarat became infection free in turn number 62; total death 497906, total survivors 0.
+The city Bendigo became infection free in turn number 62; total death 130501, total survivors 0.
+The city Bathurst Orange became infection free in turn number 62; total death 323823, total survivors 0.
+The city Mackay became infection free in turn number 62; total death 84307, total survivors 0.
+The city Rockhampton became infection free in turn number 62; total death 75766, total survivors 0.
+The city Coffs Harbour became infection free in turn number 62; total death 137865, total survivors 0.
+The city Bundaberg became infection free in turn number 62; total death 104602, total survivors 0.
+The city Wagga Wagga became infection free in turn number 62; total death 145933, total survivors 0.
+The city Mildura became infection free in turn number 62; total death 196508, total survivors 0.
+The city Shepparton Mooroopna became infection free in turn number 62; total death 86193, total survivors 0.
+The city Gladstone became infection free in turn number 62; total death 53594, total survivors 0.
+The city Hervey Bay became infection free in turn number 62; total death 82302, total survivors 0.
+The city Dubbo became infection free in turn number 62; total death 177361, total survivors 0.
+The city Tamworth became infection free in turn number 62; total death 131500, total survivors 0.
+The city Port Macquarie became infection free in turn number 62; total death 118889, total survivors 0.
+The city Kalgoorlie Boulder became infection free in turn number 62; total death 185242, total survivors 0.
+The city Warrnambool became infection free in turn number 62; total death 180822, total survivors 0.
+The city Geraldton became infection free in turn number 62; total death 157433, total survivors 0.
+The city Bunbury became infection free in turn number 62; total death 182747, total survivors 0.
+The city Albany became infection free in turn number 62; total death 176350, total survivors 0.
+The city Alice Springs became infection free in turn number 62; total death 112502, total survivors 0.
+The city Broome became infection free in turn number 62; total death 40075, total survivors 0.
+The city Port Augusta became infection free in turn number 62; total death 138334, total survivors 0.
