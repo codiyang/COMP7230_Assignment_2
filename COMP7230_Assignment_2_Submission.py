@@ -140,7 +140,14 @@ class City(object):
     """ Basic class for modelling a population centre. """
 
     def __init__(self, lat, long, name, population):
+        """
+        :param lat: the latitude value.
+        :param long: the longitude value.
+        :param name: the city name.
+        :param population: the population in the city.
+        """
 
+        # Attributes with original value before start running the first turn.
         self.name = name
         self.lat = lat
         self.long = long
@@ -153,49 +160,56 @@ class City(object):
         self.healthy_population = population
         self.neighbours = set()  # These are other instances of the city class.
 
-
+        # Added the below flag to show whether the city has been infected before.
         self.has_been_infected = False
 
 
     def __hash__(self):
+        """ Returns hashed value of city name. """
+
         return hash(self.name)
 
     def __ne__(self, other):
+        """ Returns city name doesn't equal to other name."""
+
         return self.name != other.name
 
     def __eq__(self, other):
+        """ Returns city name equal to other name."""
+
         return self.name == other.name
 
     def __lt__(self, other):
+        """ Returns city name less than other name."""
+
         return self.name < other.name
 
     def add_neighbour(self, neighbour):
+        """ Add neighbour cities to the city.neighbours set."""
+
         self.neighbours.add(neighbour)
 
     def remove_neighbour(self, neighbour):
+        """ Remove neighbour cities from the city.neighbours set."""
+
         self.neighbours.remove(neighbour)
 
     def start_of_turn(self):
-        # Needs to happen here
+        """ Runs the turns for the infected cities.
+        If new infected cases appears in a city for the first time, add a record to logbook; also flag the city as has_been_infected.
+        Add incoming infected cases to total infected."""
+
         if self.infected == 0 and self.incoming_infected > 0 and not self.has_been_infected:
             LOG_FILE.write("The pandemic reached {} for the first time in turn number {}.\n".format(self.name, engine.turn_number))
             self.has_been_infected = True
 
+        # Transfer incoming infected numbers to the city and clear incoming_infected.
         self.infected += self.incoming_infected
         self.incoming_infected = 0
 
     def run_turn(self, turn_number):
-
-        # Each turn:
-        # A proportion of infected cases move to a neighbouring city
-        # Then a proportion of infected cases either die or recover
-        # Each remaining infected case contacts other people based on infection rate.
-        # - if the contact is a survivor or has been cured, nothing happens.
-        # - if the contact a healthy person, they get the disease.
-
-        # Two other rules to stop the simulation running forever, or going very slowly.
-        # The minimum number of infected cases that either die or recover is 5 (or all cases if less than 5 infected).
-        # If there are less than 10 infected people and no healthy people in the city, set the number of infected to 0.
+        """ Runs the following functions to calculate the movement of infected cases to neighbour cities,
+        the number of patients survived or dead, and whether the city could be infected again.  """
 
         # TODO: Question 1
         # TODO: Refactor this into several small methods. You can use the ones below or create your own.
@@ -207,57 +221,81 @@ class City(object):
         self.infection_free()
 
     def move_infected(self):
+       """ A proportion of infected cases moved to neighbouring cities. """
 
+        # Calculate total number of infected cases to move out of the city as per given MOVEMENT_PROPORTION.
         num_moving = int(self.infected * MOVEMENT_PROPORTION)
+        # Calculate the number to be allocate to each neighbour city.
         num_per_neighbour = num_moving // len(self.neighbours)
 
+        # Remove the moving cases from the current city and add to each neighbour city.
         for nbr in self.neighbours:
             nbr.incoming_infected += num_per_neighbour
             self.infected -= num_per_neighbour
 
     def change_in_infected_numbers(self):
+        """A proportion of infected cases either die or recover; these were considered as resolved. """
 
+        # Resolved means infected cases were either cured or died.
+        # If total infected number is larger than five, at least 5 cases should be resolved.
+        # If total infected number is between 0-5, all infected cases should be resolved.
+        # Otherwise there's no resolved case.
         if self.infected > 5:
             num_resolved = max(int(self.infected // AVERAGE_DURATION), 5)
         elif self.infected > 0:
             num_resolved = self.infected
         else:
             num_resolved = 0
+
+        # Calculate number of people died as per mortality rate.
         num_die = int(num_resolved * MORTALITY_RATE)
 
+        # Apply the changes of infected, survived and dead numbers for the turn and get new balances.
         self.infected -= num_resolved
         self.survivors += (num_resolved - num_die)
         self.dead += num_die
 
     def spread_infection(self):
+        """ Remaining infected case contacts other people in the city and spread the disease. """
 
+        # When there are non-infected people in the city, calculate the total amount of people could be infected as per given infection_rate.
+        # Only healthy people who haven't been infected or cured before could be infected again.
         if self.healthy_population + self.survivors + self.cured > 0:
 
             r = self.healthy_population / (self.healthy_population + self.survivors + self.cured)
 
             hc = int(r * self.infected * INFECTION_RATE)
 
+            # If the amount could be infected is greater than remaining healthy population, all healthy people will be infected.
+            # There's no healthy people in the city.
             if self.healthy_population < hc:
                 self.infected += self.healthy_population
                 self.healthy_population = 0
 
+                # Add a record on logbook according to simulation number to show everyone's infected.
+                # Simulation 0 has 100% mortality rate so all infected cases were dead.
                 if SIMULATION_NUMBER == 0:
                     LOG_FILE.write("Everyone in {} was infected and died in turn number {}\n".format(self.name, engine.turn_number))
                 elif SIMULATION_NUMBER >= 0:
                     LOG_FILE.write("Everyone in {} was infected in turn number {}\n".format(self.name, engine.turn_number))
 
+            # If there are enough healthy people in the city, a portion of people will be infected and the rest remain healthy.
             elif self.infected > 0:
                 self.healthy_population -= hc
                 self.infected += hc
 
 
     def infection_free(self):
-        """Added this function to define when is a city considered as infection free"""
+        """ Added this function to define when is a city considered as infection free."""
 
+        # If there are less than 10 infected people and no healthy people in the city, consider there's no one can be infected, infected set to 0.
+        # If infected people recovered fast enough or moved quickly to other cities; there might still be plenty of healthy people and might face future infection.
         if self.infected < 10 and self.healthy_population == 0:
             self.dead += int(self.infected * MORTALITY_RATE)
             self.survivors += (self.infected - int(self.infected * MORTALITY_RATE))
             self.infected = 0
+
+            # Write a record on logbook to show the city is infection free. Show total death and survivors for references.
             LOG_FILE.write("The city {} became infection free in turn number {}; total death {}, total survivors {}.\n".
                            format(self.name, engine.turn_number, self.dead, self.survivors))
 
