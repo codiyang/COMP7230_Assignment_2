@@ -133,6 +133,31 @@ AVERAGE_DURATION = 4.0  # The average number of turns to recover or die, (float 
 ########################################################################################################################
 #                               City Class - Parts 1 and 2 of the Assignment
 ########################################################################################################################
+# Brief summary regarding student's answers to the questions:
+
+# Q1: I have refactored the run_turn method into 4 smaller methods as below.
+#     On top of the 3 methods were given to us; I have added one extra method called infection_free to check whether the city will be infected again.
+#     The reason to add this method is because this is the only scenario that a city could be considered as safe.
+#     I think it's different from all other stages and could be used as a flag in future modeling.
+
+# Q2: I have setup logging process to record some special stages of the significant events including:
+#     Q2-1): When the process starts, write a record to logbook with the simulation number.
+#     Q2-2): When the first infected case appears in a city, write a record to logbook.
+#     Q2-3): When everyone in the city is either dead or has been infected. I've added records as per simulation conditions.
+#            In simulation 0, since the mortality rate is 100%, all infected people will be dead in this stage.
+#            In other simulations, there will be some infected people recovered and survived.
+#     Q2-4): When everyone in the city is either recovered or infected, hence no more infection could happen again. I've listed death number and survivor numbers for references.
+#     Q2-5): At the end of the run, a record will be wrote on logbook to show the ending.
+#     Q2-6): I did not add records when a city temporarily has infection number less than 10.
+#            Although the city could be considered as infection free to that specific time, it's still facing many more potential infections in the furture.
+
+# Q2: Code documentation and naming:
+#     I've added documentations and comments in City class.
+#     I've renamed change_in_infected_numbers into resolve_infected as this method mainly shows the resolved cases.
+#     I've renamed spread_infection into spread_infected for consistency.
+
+#     I've moved run_turn to the end; it's more logical to run this method after we clearly define the other four methods.
+
 
 # Note that for Question 2 - you should write to the file opened as LOG_FILE above
 
@@ -207,21 +232,8 @@ class City(object):
         self.infected += self.incoming_infected
         self.incoming_infected = 0
 
-    def run_turn(self, turn_number):
-        """ Runs the following functions to calculate the movement of infected cases to neighbour cities,
-        the number of patients survived or dead, and whether the city could be infected again.  """
-
-        # TODO: Question 1
-        # TODO: Refactor this into several small methods. You can use the ones below or create your own.
-        # TODO: You should call those methods from here instead, and the unit-test should still pass.
-
-        self.move_infected()
-        self.change_in_infected_numbers()
-        self.spread_infection()
-        self.infection_free()
-
     def move_infected(self):
-       """ A proportion of infected cases moved to neighbouring cities. """
+        """ A proportion of infected cases moved to neighbouring cities. """
 
         # Calculate total number of infected cases to move out of the city as per given MOVEMENT_PROPORTION.
         num_moving = int(self.infected * MOVEMENT_PROPORTION)
@@ -233,7 +245,7 @@ class City(object):
             nbr.incoming_infected += num_per_neighbour
             self.infected -= num_per_neighbour
 
-    def change_in_infected_numbers(self):
+    def resolve_infected(self):
         """A proportion of infected cases either die or recover; these were considered as resolved. """
 
         # Resolved means infected cases were either cured or died.
@@ -255,7 +267,7 @@ class City(object):
         self.survivors += (num_resolved - num_die)
         self.dead += num_die
 
-    def spread_infection(self):
+    def spread_infected(self):
         """ Remaining infected case contacts other people in the city and spread the disease. """
 
         # When there are non-infected people in the city, calculate the total amount of people could be infected as per given infection_rate.
@@ -299,6 +311,19 @@ class City(object):
             LOG_FILE.write("The city {} became infection free in turn number {}; total death {}, total survivors {}.\n".
                            format(self.name, engine.turn_number, self.dead, self.survivors))
 
+
+    def run_turn(self, turn_number):
+        """ Runs the following functions to calculate the movement of infected cases to neighbour cities,
+        the number of patients survived or dead, and whether the city could be infected again.  """
+
+        # TODO: Question 1
+        # TODO: Refactor this into several small methods. You can use the ones below or create your own.
+        # TODO: You should call those methods from here instead, and the unit-test should still pass.
+
+        self.move_infected()
+        self.resolve_infected()
+        self.spread_infected()
+        self.infection_free()
 
 ########################################################################################################################
 #                               Treatment Centre Class - Part 2
